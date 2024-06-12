@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         cat file storage
-// @namespace    https://bbs.tampermonkey.net.cn/
+// @namespace    https://bls.tampermonkey.net.cn/
 // @version      0.1.0
 // @description  脚本同步储存空间操作
 // @author       You
